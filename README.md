@@ -31,10 +31,9 @@ Display the original, lower contrast, and higher contrast images.
 Split the image (boy.jpg) into B, G, R components and display the channels
 
 ## Program Developed By:
-- **Name:** Amruthavarshini Gopal 
-- **Register Number:** 212223230013
-
-  ### Ex. No. 01
+### Name: Amruthavarshini Gopal 
+### Register Number: 212223230013
+### Ex. No. 01
 
 #### 1.Read the image using OpenCV
 ```python
@@ -202,23 +201,26 @@ plt.axis("off")
 ```
 
 ## Output:
-- **i)** Read and Display an Image.
-- <img width="508" height="413" alt="image" src="https://github.com/user-attachments/assets/d00a5d4b-dcb0-456f-bc93-75b507f9f5d2" />
-<img width="552" height="417" alt="image" src="https://github.com/user-attachments/assets/d3e113b6-f874-4e86-8363-e6f2f6cfb90d" />
-<img width="303" height="398" alt="image" src="https://github.com/user-attachments/assets/ccd7df0a-08b9-4763-bb48-6d50a45593aa" />
-<img width="430" height="402" alt="image" src="https://github.com/user-attachments/assets/62a42a2c-8467-4654-b4ba-2fcbd880feea" />
-<img width="561" height="338" alt="image" src="https://github.com/user-attachments/assets/80ed3956-f67f-4b53-89be-04dbc5786702" />
 
-- **ii)** Adjust Image Brightness.
-- <img width="964" height="340" alt="image" src="https://github.com/user-attachments/assets/2da0d8b2-688a-467a-96d7-b0677e7ff2ef" />
+<img width="386" height="415" alt="Screenshot 2025-09-23 092625" src="https://github.com/user-attachments/assets/43c4f44c-9b55-4142-a734-191f6f2732df" />
 
-- **iii)** Modify Image Contrast.
-- <img width="939" height="354" alt="image" src="https://github.com/user-attachments/assets/94f93d4d-3b67-4cf2-92e2-0853df57ee6a" />
+<img width="395" height="417" alt="Screenshot 2025-09-23 092637" src="https://github.com/user-attachments/assets/f0b6d82c-bb30-417b-9ca7-31dbabd12451" />
 
-- **iv)** Generate Third Image Using Bitwise Operations.
-- <img width="1008" height="347" alt="image" src="https://github.com/user-attachments/assets/dca191d9-abeb-4b89-920e-fec0dc593df3" />
-<img width="587" height="340" alt="image" src="https://github.com/user-attachments/assets/7effa124-4533-41c7-9fa2-b4704e1eed35" />
-<img width="1068" height="383" alt="image" src="https://github.com/user-attachments/assets/8882058d-90d1-4c87-aed9-498f67e49bcc" />
+<img width="398" height="415" alt="Screenshot 2025-09-23 092649" src="https://github.com/user-attachments/assets/9ff90371-21ea-4f49-8569-597cf4882a3a" />
+
+<img width="387" height="415" alt="Screenshot 2025-09-23 092700" src="https://github.com/user-attachments/assets/70e374bf-ff7d-48e2-916a-071641837ea3" />
+
+<img width="383" height="410" alt="Screenshot 2025-09-23 092711" src="https://github.com/user-attachments/assets/e0d514cc-96f2-4e65-95e6-6e1e761d7aaf" />
+
+<img width="389" height="409" alt="Screenshot 2025-09-23 092724" src="https://github.com/user-attachments/assets/a6054017-249e-476f-bfc6-3db19e577f59" />
+
+<img width="393" height="407" alt="Screenshot 2025-09-23 092737" src="https://github.com/user-attachments/assets/080480f1-d6f9-441d-8e48-14f6bad55e2c" />
+
+<img width="376" height="407" alt="Screenshot 2025-09-23 092753" src="https://github.com/user-attachments/assets/ce878677-adc5-48ca-973d-e11db24eb169" />
+
+<img width="393" height="398" alt="Screenshot 2025-09-23 092806" src="https://github.com/user-attachments/assets/b6aa2319-0d9d-46d0-987a-55f9c2ba716b" />
+
+
 
 
 ## Result:
